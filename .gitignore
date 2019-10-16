@@ -1,0 +1,12 @@
+
+Tests/.vs/
+
+Tests/.vscode/
+
+Tests/Library/
+
+Tests/Logs/
+
+Tests/obj/
+
+Tests/Packages/
